@@ -1,0 +1,26 @@
+# Virtual Machine files
+*.vdi
+*.vbox
+*.vmdk
+
+# Log files
+*.log
+logs/
+
+# Incident tickets
+INC-*.md
+
+# Environment files
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Splunk data
+*.db
